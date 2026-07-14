@@ -6,4 +6,4 @@
 
 📑 [Google Scholar](https://scholar.google.com/citations?user=9b4pqgwAAAAJ&hl=en)
 
-📫 How to reach me: ywangtg@connect.ust.hk  
+📫 Reach me: ywangtg@connect.ust.hk (Email) / Skylar_Wang_2000 (Wechat)  

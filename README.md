@@ -4,8 +4,4 @@
 
 🎓 I obtained the M.S. and B.S. degrees from [NTU (Singapore)](https://www.ntu.edu.sg/) and [Sichuan University](https://www.scu.edu.cn/), respectively. Besides, I am fortunate to have internships at [WeChat](https://www.tencent.com/en-us/) and [TikTok](https://www.tiktok.com/about?lang=en).
 
-📑 [Google Scholar](https://scholar.google.com/citations?user=9b4pqgwAAAAJ&hl=en)
-
-
-📧: ywangtg@connect.ust.hk 
-Skylar_Wang_2000
+Full Publications: 📑 [Google Scholar](https://scholar.google.com/citations?user=9b4pqgwAAAAJ&hl=en)

@@ -4,6 +4,6 @@
 
 🎓 I obtained the M.S. and B.S. degrees from [NTU (Singapore)](https://www.ntu.edu.sg/) and [Sichuan University](https://www.scu.edu.cn/), respectively. 
 
-🔧 I am fortunate to have internships at [WeChat](https://www.tencent.com/en-us/) and [TikTok](https://www.tiktok.com/about?lang=en).
+🔧 I am fortunate to have internships at [Tencent](https://www.tencent.com/en-us/) and [Bytedance](https://www.tiktok.com/about?lang=en).
 
-Publication List: 📑 [Google Scholar](https://scholar.google.com/citations?user=9b4pqgwAAAAJ&hl=en)
+📑 Publication List: [Google Scholar](https://scholar.google.com/citations?user=9b4pqgwAAAAJ&hl=en)

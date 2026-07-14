@@ -1,6 +1,6 @@
 👋 Hello! I am Yanghao Wang, a Ph.D. candidate at HKUST, fortunately advised by Professor [Long Chen](https://zjuchenlong.github.io/).
 
-🧐 My current research mainly focuses on **Visual Generative Models** and related applications, especially **Video Generation** and **World Model**.
+🧐 My current research focuses on **Visual Generative Models** and related applications, especially **Video Generation** and **World Model**.
 
 🎓 I obtained the M.S. and B.S. degrees from [NTU (Singapore)](https://www.ntu.edu.sg/) and [Sichuan University](https://www.scu.edu.cn/), respectively. 
 

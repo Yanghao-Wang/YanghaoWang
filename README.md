@@ -4,7 +4,7 @@
 
 🔧 I am fortunate to have internships at [Tencent WXG](https://www.tencent.com/en-us/) and [ByteDance TikTok](https://www.tiktok.com/about?lang=en).
 
-🧐 My current research focuses on **Visual Generative Models** and related applications, especially **Video Generation** and **World Model**.
+🧐 My current research focuses on **Visual Generative Models** and related applications, especially the **Video Generation** and **World Models**.
 
 **Recent projects:** 
 - [**[2026-07] LISA**: Likelihood Score Alignment for Visual-condition Controllable Generation.](https://arxiv.org/pdf/2606.27192)
